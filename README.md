@@ -2,9 +2,9 @@
 Un robot commandé par arduino sur un châssis en aluminium.
 
 ### Télécommande  
-Dans cette version, le robot est démarré et arrêté par télécommande infra-rouge, mais cette partie du programme peut être supprimée.
-La gestion de la télécommande nécessite la bibliothèque suivante :
-`#include <IRremote.h>`
+Dans cette version, le robot est démarré et arrêté par télécommande infra-rouge, mais cette partie du programme peut être supprimée.  
+La gestion de la télécommande nécessite la bibliothèque suivante :  
+`#include <IRremote.h>`  
 Cette bibliothèque est à télécharger sur https://github.com/z3t0/Arduino-IRremote puis à dézipper dans le dossier d'installation du logiciel Arduino (en général C:\Program Files (x86)\Arduino\libraries\IRremote)
 
 La version ultrason V1 stoppe à 20cm d'un objet recule et tourne à gauche puis repart en avant

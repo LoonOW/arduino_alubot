@@ -1,6 +1,8 @@
 # arduino_alubot
 Un robot commandé par arduino sur un châssis en aluminium.
 
+![alubot](alubot.jpg)
+
 ### Télécommande  
 Dans cette version, le robot est démarré et arrêté par télécommande infra-rouge, mais cette partie du programme peut être supprimée.  
 La gestion de la télécommande nécessite la bibliothèque suivante :  

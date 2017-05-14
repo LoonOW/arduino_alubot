@@ -1,7 +1,10 @@
 # arduino_alubot
 Un robot commandé par arduino sur un châssis en aluminium.
 
-![alubot](alubot.jpg)
+![alubot](img/alubot.jpg)
+
+Schéma de montage avec un Arduino UNO, 2 servo pour les roues, un capteur ultrason HC-SR04 et un récepteur infrarouge pour la télécommande (optionnelle) :
+![circuit](img/alubot_schema_circuit.png)
 
 ### Télécommande  
 Dans cette version, le robot est démarré et arrêté par télécommande infra-rouge, mais cette partie du programme peut être supprimée.  
